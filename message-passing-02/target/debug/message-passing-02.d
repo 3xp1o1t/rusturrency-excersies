@@ -1,0 +1,1 @@
+/home/wrench/Documents/Rust_stuff/rust-concurrency-exercies/message-passing-02/target/debug/message-passing-02: /home/wrench/Documents/Rust_stuff/rust-concurrency-exercies/message-passing-02/src/main.rs
