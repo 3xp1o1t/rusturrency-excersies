@@ -1,0 +1,1 @@
+/home/wrench/Documents/Rust_stuff/rust-concurrency-exercies/spawning-threads-01/target/debug/spawning-threads-01: /home/wrench/Documents/Rust_stuff/rust-concurrency-exercies/spawning-threads-01/src/main.rs
