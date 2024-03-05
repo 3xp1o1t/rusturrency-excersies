@@ -13,3 +13,12 @@ How to spawn multiple threads using a for loop
 ## Shared state with Mutex
 
 [Code](./shared-state-w-mutex-03/src/main.rs)
+
+## Basic Concurrent Web Server
+
+[Code](./basic-concurrent-web-server-04/src/main.rs)
+
+```bash
+# Send a request
+curl -X GET http://localhost:8080
+```
