@@ -9,3 +9,7 @@ How to spawn multiple threads using a for loop
 ## How to send messages btw threads through a channel
 
 [Code](./message-passing-02/src/main.rs)
+
+## Shared state with Mutex
+
+[Code](./shared-state-w-mutex-03/src/main.rs)
