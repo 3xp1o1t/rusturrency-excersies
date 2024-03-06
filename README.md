@@ -22,3 +22,12 @@ How to spawn multiple threads using a for loop
 # Send a request
 curl -X GET http://localhost:8080
 ```
+
+## Advanced ThreadPool for concurrent server
+
+[Code](./thread-pool-05/src/main.rs)
+
+```bash
+# Send a request
+curl -X GET http://localhost:7878
+```
